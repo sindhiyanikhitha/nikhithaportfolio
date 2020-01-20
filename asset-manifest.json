@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/nikhithaportfolio/static/css/main.8ab6f918.chunk.css",
-    "main.js": "/nikhithaportfolio/static/js/main.97f3c3ab.chunk.js",
-    "main.js.map": "/nikhithaportfolio/static/js/main.97f3c3ab.chunk.js.map",
+    "main.js": "/nikhithaportfolio/static/js/main.b9ef6a6d.chunk.js",
+    "main.js.map": "/nikhithaportfolio/static/js/main.b9ef6a6d.chunk.js.map",
     "runtime-main.js": "/nikhithaportfolio/static/js/runtime-main.986b9de6.js",
     "runtime-main.js.map": "/nikhithaportfolio/static/js/runtime-main.986b9de6.js.map",
     "static/js/2.a55dadd5.chunk.js": "/nikhithaportfolio/static/js/2.a55dadd5.chunk.js",
     "static/js/2.a55dadd5.chunk.js.map": "/nikhithaportfolio/static/js/2.a55dadd5.chunk.js.map",
     "index.html": "/nikhithaportfolio/index.html",
-    "precache-manifest.2b39830955998687b1df46fc7d59e166.js": "/nikhithaportfolio/precache-manifest.2b39830955998687b1df46fc7d59e166.js",
+    "precache-manifest.7c8d2ccc900a5f3d37a477a7df69cdf6.js": "/nikhithaportfolio/precache-manifest.7c8d2ccc900a5f3d37a477a7df69cdf6.js",
     "service-worker.js": "/nikhithaportfolio/service-worker.js",
     "static/css/main.8ab6f918.chunk.css.map": "/nikhithaportfolio/static/css/main.8ab6f918.chunk.css.map",
     "static/js/2.a55dadd5.chunk.js.LICENSE": "/nikhithaportfolio/static/js/2.a55dadd5.chunk.js.LICENSE"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.986b9de6.js",
     "static/js/2.a55dadd5.chunk.js",
     "static/css/main.8ab6f918.chunk.css",
-    "static/js/main.97f3c3ab.chunk.js"
+    "static/js/main.b9ef6a6d.chunk.js"
   ]
 }
