@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/sindhiyanikhitha-portfolio/static/css/main.8ab6f918.chunk.css",
-    "main.js": "/sindhiyanikhitha-portfolio/static/js/main.a49ad0c7.chunk.js",
-    "main.js.map": "/sindhiyanikhitha-portfolio/static/js/main.a49ad0c7.chunk.js.map",
-    "runtime-main.js": "/sindhiyanikhitha-portfolio/static/js/runtime-main.9d2d5ff2.js",
-    "runtime-main.js.map": "/sindhiyanikhitha-portfolio/static/js/runtime-main.9d2d5ff2.js.map",
-    "static/js/2.e783d8fe.chunk.js": "/sindhiyanikhitha-portfolio/static/js/2.e783d8fe.chunk.js",
-    "static/js/2.e783d8fe.chunk.js.map": "/sindhiyanikhitha-portfolio/static/js/2.e783d8fe.chunk.js.map",
-    "index.html": "/sindhiyanikhitha-portfolio/index.html",
-    "precache-manifest.35a1cb83dd55e7550f823a28181749f7.js": "/sindhiyanikhitha-portfolio/precache-manifest.35a1cb83dd55e7550f823a28181749f7.js",
-    "service-worker.js": "/sindhiyanikhitha-portfolio/service-worker.js",
-    "static/css/main.8ab6f918.chunk.css.map": "/sindhiyanikhitha-portfolio/static/css/main.8ab6f918.chunk.css.map",
-    "static/js/2.e783d8fe.chunk.js.LICENSE": "/sindhiyanikhitha-portfolio/static/js/2.e783d8fe.chunk.js.LICENSE"
+    "main.css": "/nikhithaportfolio/static/css/main.8ab6f918.chunk.css",
+    "main.js": "/nikhithaportfolio/static/js/main.97f3c3ab.chunk.js",
+    "main.js.map": "/nikhithaportfolio/static/js/main.97f3c3ab.chunk.js.map",
+    "runtime-main.js": "/nikhithaportfolio/static/js/runtime-main.986b9de6.js",
+    "runtime-main.js.map": "/nikhithaportfolio/static/js/runtime-main.986b9de6.js.map",
+    "static/js/2.a55dadd5.chunk.js": "/nikhithaportfolio/static/js/2.a55dadd5.chunk.js",
+    "static/js/2.a55dadd5.chunk.js.map": "/nikhithaportfolio/static/js/2.a55dadd5.chunk.js.map",
+    "index.html": "/nikhithaportfolio/index.html",
+    "precache-manifest.2b39830955998687b1df46fc7d59e166.js": "/nikhithaportfolio/precache-manifest.2b39830955998687b1df46fc7d59e166.js",
+    "service-worker.js": "/nikhithaportfolio/service-worker.js",
+    "static/css/main.8ab6f918.chunk.css.map": "/nikhithaportfolio/static/css/main.8ab6f918.chunk.css.map",
+    "static/js/2.a55dadd5.chunk.js.LICENSE": "/nikhithaportfolio/static/js/2.a55dadd5.chunk.js.LICENSE"
   },
   "entrypoints": [
-    "static/js/runtime-main.9d2d5ff2.js",
-    "static/js/2.e783d8fe.chunk.js",
+    "static/js/runtime-main.986b9de6.js",
+    "static/js/2.a55dadd5.chunk.js",
     "static/css/main.8ab6f918.chunk.css",
-    "static/js/main.a49ad0c7.chunk.js"
+    "static/js/main.97f3c3ab.chunk.js"
   ]
 }
