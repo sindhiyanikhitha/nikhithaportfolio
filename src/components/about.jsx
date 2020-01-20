@@ -11,11 +11,10 @@ export default class About extends Component {
                 <div className="row row-bottom-padded-sm animate-box" data-animate-effect="fadeInLeft">
                 <div className="col-md-12">
                     <div className="about-desc">
-                    <span className="heading-meta">About Me</span>
+                    <span className="heading-meta">About ME</span>
                     <h2 className="colorlib-heading">Who Am I?</h2>
-                    <p>Hey there! I'am currently pursuing my Master's in Information Systems at Northeastern University. I live in Boston. I've 2.5 years of industry experience in Software Development. I'm currently looking for full-time opportunities in the areas of Data Engineering & Software Development.</p>
-                    <p>I believe that “Life is too short to exhaust our precious time doing mundane tasks”. Automating manual tasks on a machine with no intelligence excites me. I love challenges that push me out of my comfort zone constantly and help me get a better understanding of the work I do.</p>
-                    <p>I love going out for trips and playing cricket. I'm a huge fan of M.S Dhoni.If you need anything from me, you know where to start :)</p>
+                    <p>I am a student pursuing my Masters in Information systems at Northeastern University.I have my undergraduate degree in Computer science from SASTRA University.I enjoys building things that live on the internet. I develop exceptional websites and web apps that provide intuitive, pixel-perfect user interfaces with efficient and modern backends. </p>
+                    <p> I want to make things that make a difference.As a web developer, I enjoy using my obsessive attention to detail, my unequivocal love for making things, and my mission-driven work ethic to literally change the world. That's why I’m excited to make a big impact at a high growth company.</p>
                     </div>
                 </div>
                 </div>
@@ -38,8 +37,8 @@ export default class About extends Component {
                     <i className="icon-bulb" />
                 </span>
                 <div className="desc">
-                    <h3>Software Development</h3>
-                    <p>Experienced in building full stack applications with microservice architecture having thorough knowledge in Java Spring, Spring Boot, D3.js, ReactJS, Javascript, Docker & Kubernetes. </p>
+                    <h3>Web Development </h3>
+                    <p>I have experience building websites using Angular, TypeScript, JavaScript, React, HTML, CSS. I also have experience in backend using SpringBoot</p>
                 </div>
                 </div>
             </div>
@@ -50,7 +49,7 @@ export default class About extends Component {
                 </span>
                 <div className="desc">
                     <h3>Data Structures & Algorithms</h3>
-                    <p>Well versed with the fundamental concepts of DSA.</p>
+                    <p>As coming from the CS background, I have good grasp over fundamental concepts of DSA</p>
                 </div>
                 </div>
             </div>
@@ -60,9 +59,8 @@ export default class About extends Component {
                     <i className="icon-data" />
                 </span>
                 <div className="desc">
-                    <h3>Big Data</h3>
-                    <p>Familar with Big Data architecture for building distributed software systems. I had used Json simple for Json parsing, Spring Boot for rest API development, Elastic Search for search and retrieval capabilities, Redis for Cache solutions, Json Schema for schema validation and Zuul for API Gateway pattern. 
- </p>
+                    <h3>Dev Ops</h3>
+                    <p>Deployed applications on AWS Cloud using CICD methods with Travis CI. Implemented AWS stacks using Cloud Formation and AWS CLI. Metrics and logging were done using AWS Cloudwatch</p>
                 </div>
                 </div>
             </div>
@@ -104,9 +102,6 @@ export default class About extends Component {
             </div>
         </div>
         </section>
-        
-    
-        
       </div>
     )
   }

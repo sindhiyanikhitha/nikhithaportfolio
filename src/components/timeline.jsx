@@ -15,19 +15,25 @@ export default class Timeline extends Component {
             <div className="row">
               <div className="col-md-12">
                 <div className="timeline-centered">
+                <article className="timeline-entry animate-box" data-animate-effect="fadeInTop">
+                    <div className="timeline-entry-inner">
+                      <div className="timeline-icon color-2">
+                        <i className="icon-pen2" />
+                      </div>
+                      <div className="timeline-label">
+                        <h2>Masters at Northeastern University <span>September 2018-August 2020</span></h2>
+                        <p>I am pursuing my masters degree in Information Systems with major in Software Engineering. The courses I have taken are Web Development Tools,Program Strutures and Algorithms,Networks Structures and Cloud Computing </p>
+                      </div>
+                    </div>
+                  </article>
                   <article className="timeline-entry animate-box" data-animate-effect="fadeInLeft">
                     <div className="timeline-entry-inner">
                       <div className="timeline-icon color-3">
                         <i className="icon-pen2" />
                       </div>
                       <div className="timeline-label">
-                        <h2>Software Engineer Intern at MathWorks <span>June 2019- Decemeber 2019</span></h2>
-                        <ul><b>Software Engineer Intern</b>
-                           <li>Altered <b>MATLAB</b> test session bucketing algorithm, for optimal utilization of host machines</li>
-                           <li>Created visualization using <b>D3.js</b> to detect abnormalities in host allocations across different platforms</li>
-                           <li>Optimized SQL queries which resulted in performance improvement by 10%</li>
-                           <li>Transformed Perl web services into Java REST APIs with better code organization, optimization, and readability</li>
-                        </ul>
+                        <h2>Software Developer Co-op at Orig3n <span>July 2019-December 2019</span></h2>
+                          <p>Recently, I worked at Orig3n as Software Developer Co-op. Developed single page applications using Angular 7, Typescript, HTML5, CSS3 to add new features to an existing application and performed CRUD operations on business data and deployed it in docker container .Extensively worked on writng REST API's to retrieve data and display it to user in Angular 8 </p>
                       </div>
                     </div>
                   </article>
@@ -37,13 +43,8 @@ export default class Timeline extends Component {
                         <i className="icon-pen2" />
                       </div>
                       <div className="timeline-label">
-                        <h2>Software Engineer at Sapient <span>September 2016 - July 2018</span></h2>
-                        <ul><b>Software Engineer</b>
-                           <li>Worked on developing an online book Store using <b>Spring MVC</b> and <b>Hibernate</b></li>
-                           <li>Developed personalized product suggestion for users using IBM WCS, thereby increasing sales by 6%</li>
-                           <li>Revamped <b>REST APIs</b> with third party services to make users more interactive and engaging</li>
-                           <li>Handled Data Migration which moved catalog data from remote server location and loads it into WCS system</li>
-                        </ul>
+                        <h2>Software Developer at Tata Consultancy Services <span>June 2016- August 2018</span></h2>
+                        <p>Worked as Software Engineer in Tata Consultancy Services. Used Spring MVC to design & develop an application to cater to international healthcare in Agile development manner according to the project requirements.Revamped an application using bootstrap and jQuery and made the website more user-friendly and reducing the total execution time of the application by almost 90% </p>
                       </div>
                     </div>
                   </article>
@@ -53,8 +54,8 @@ export default class Timeline extends Component {
                         <i className="icon-pen2" />
                       </div>
                       <div className="timeline-label">
-                        <h2>Education <span>June 2012- May 2016</span></h2>
-                        <p>I have completed my Bachelors in Electrical and Computer engineering  from <b>VIT University</b> with major subjects as Object-oriented programming, Computer organization and architecture, Computer Networks. During my time at school, I have developed interest in solving complex problems using technology which helped me to improve my analytical and problem solving skill.</p> 
+                        <h2>SASTRA University <span>June 2012- April 2016</span></h2>
+                        <p>I have completed my under graduation in Computer Science at SASTRA University. I have developed interest in solving complex problems of the programming which helped me to improve my understanding of any problem and also my mathematical skills to actually solve the problems.</p> 
                       </div>
                     </div>
                   </article>
