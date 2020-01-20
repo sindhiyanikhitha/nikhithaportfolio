@@ -1,8 +1,8 @@
 {
-  "name": "swagath-portfolio",
+  "name": "sindhiyanikhitha-portfolio",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://saiswagath.github.io/swagath-portfolio",
+  "homepage": "https://sindhiyanikhitha.github.io/sindhiyanikhitha-portfolio",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.4.0",
