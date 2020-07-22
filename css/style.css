@@ -336,7 +336,9 @@ figure {
           #colorlib-hero .flexslider .slider-text > .slider-text-inner .btn.btn-learn {
             color:white;
             border: 1px solid #2c98f0;
-            background: transparent !important; }
+            background-color: black;
+            font-weight: bold;
+            }
             #colorlib-hero .flexslider .slider-text > .slider-text-inner .btn.btn-learn:hover {
               background: transparent !important;
               border: 1px solid #000 !important; }
