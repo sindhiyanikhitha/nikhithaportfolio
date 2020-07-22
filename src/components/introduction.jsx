@@ -7,7 +7,7 @@ export default class Introduction extends Component {
         <section id="colorlib-hero" className="js-fullheight" data-section="home">
           <div className="flexslider js-fullheight">
             <ul className="slides">
-              <li>
+              <li style={{backgroundImage: 'url(images/img_bg.jpg)'}}>
                 <div className="overlay" />
                 <div className="container-fluid">
                   <div className="row">
@@ -15,14 +15,14 @@ export default class Introduction extends Component {
                       <div className="slider-text-inner js-fullheight">
                         <div className="desc">
                           <h1>Hi! <br />I'm Nikhitha</h1>
-                          <p><a className="btn btn-primary btn-learn" href="https://drive.google.com/file/d/1LXnl-t3ZAkUDMeOFw0Yyk4sNuWo3FGj9/view?usp=sharing" target="_blank" rel="noopener noreferrer">DOWNLOAD RESUME<i className="icon-download4" /></a></p>
+                          <p><a className="btn btn-primary btn-learn" href="https://drive.google.com/file/d/15-UXsOLDPrACpPzUBn9vUK0uRJLLbyJM/view?usp=sharing" target="_blank" rel="noopener noreferrer"><b>VIEW RESUME</b><i className="icon-download4" /></a></p>
                         </div>
                       </div>
                     </div>
                   </div>
                 </div>
               </li>
-              <li>
+              <li style={{backgroundImage: 'url(images/img_bg.jpg)'}}>
                 <div className="overlay" />
                 <div className="container-fluid">
                   <div className="row">
@@ -30,7 +30,7 @@ export default class Introduction extends Component {
                       <div className="slider-text-inner">
                         <div className="desc">
                           <h1>I love building<br /> THINGS !!</h1>
-                          <p><a className="btn btn-primary btn-learn" href="https://github.com/sindhiyanikhitha" target="_blank" rel="noopener noreferrer">View Projects <i className="icon-briefcase3" /></a></p>
+                          <p><a className="btn btn-primary btn-learn" href="https://github.com/sindhiyanikhitha" target="_blank" rel="noopener noreferrer"><b>View Projects</b> <i className="icon-briefcase3" /></a></p>
                         </div>
                       </div>
                     </div>

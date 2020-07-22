@@ -21,8 +21,8 @@ export default class Timeline extends Component {
                         <i className="icon-pen2" />
                       </div>
                       <div className="timeline-label">
-                        <h2>Masters at Northeastern University <span>September 2018-August 2020</span></h2>
-                        <p>I am pursuing my masters degree in Information Systems with major in Software Engineering. The courses I have taken are Web Development Tools,Program Strutures and Algorithms,Networks Structures and Cloud Computing </p>
+                        <h2>Masters at Northeastern University <span>September 2018-December 2020</span></h2>
+                        <p>I am pursuing my masters degree in Information Systems with major in Software Engineering including the courses Web Development Tools,Program Strutures and Algorithms,Networks Structures and Cloud Computing.I have always aimed of converting ingenious thoughtfulness into an empirical application on my own designing canvas.</p>
                       </div>
                     </div>
                   </article>
@@ -33,7 +33,20 @@ export default class Timeline extends Component {
                       </div>
                       <div className="timeline-label">
                         <h2>Software Developer Co-op at Orig3n <span>July 2019-December 2019</span></h2>
-                          <p>Recently, I worked at Orig3n as Software Developer Co-op. Developed single page applications using Angular 7, Typescript, HTML5, CSS3 to add new features to an existing application and performed CRUD operations on business data and deployed it in docker container .Extensively worked on writng REST API's to retrieve data and display it to user in Angular 8 </p>
+                        <ul>
+                          <li>
+                          Added new features to existing Cell Tracker application and implemented page navigation
+                          </li>
+                          <li>
+                          Redesigned and transformed monolith REST API’s to a microservices based architecture
+                          </li>
+                          <li>
+                          Designed dynamic client-side web forms to map the products to logical sets and performed CRUD operations
+                          </li>
+                          <li>
+                          Implemented backend API’s – GetProductInformation ,GetAllProducts etc., to fetch data from backend database from web clients
+                          </li>
+                        </ul>
                       </div>
                     </div>
                   </article>
@@ -44,7 +57,20 @@ export default class Timeline extends Component {
                       </div>
                       <div className="timeline-label">
                         <h2>Software Developer at Tata Consultancy Services <span>June 2016- August 2018</span></h2>
-                        <p>Worked as Software Engineer in Tata Consultancy Services. Used Spring MVC to design & develop an application to cater to international healthcare in Agile development manner according to the project requirements.Revamped an application using bootstrap and jQuery and made the website more user-friendly and reducing the total execution time of the application by almost 90% </p>
+                        <ul>
+                          <li>
+                          Designed and Developed and Spring MVC Version 1 Application to serve International HealthCare customer
+                          </li>
+                          <li>
+                          Iterated and improved the above version to include interactive, dynamic statistics and insights
+                          </li>
+                          <li>
+                          Revamped an application using bootstrap and jQuery which made the website responsive and user-friendly
+                          </li>
+                          <li>
+                          Improved durability by implementing a sharding ability of database objects in application decreasing the loading time by 25%
+                          </li>
+                        </ul>
                       </div>
                     </div>
                   </article>
